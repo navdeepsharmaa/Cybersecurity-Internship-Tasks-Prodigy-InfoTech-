@@ -42,7 +42,7 @@ This repository contains all the projects I completed during my 1-month Cybersec
 
 ### 🔗 Connect with Me:
 
-- 🔹 LinkedIn: 
+- 🔹 LinkedIn: www.linkedin.com/in/navdeepsharma04
 - 🔹 GitHub: 
 
 ---
