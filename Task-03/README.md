@@ -1,1 +1,1 @@
-Password Complexity Checker Tool - Implementation & Screenshots
+Password Complexity Checker Tool - Implementation & Screenshots 
